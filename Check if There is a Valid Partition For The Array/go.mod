@@ -1,0 +1,3 @@
+module Check_if_There_is_a_Valid_Partition_For_The_Array
+
+go 1.19
