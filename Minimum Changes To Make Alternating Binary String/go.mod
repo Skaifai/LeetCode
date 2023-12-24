@@ -1,0 +1,3 @@
+module Minimum_Changes_To_Make_Alternating_Binary_String
+
+go 1.19
