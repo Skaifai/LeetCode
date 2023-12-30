@@ -1,0 +1,3 @@
+module Redistribute_Characters_to_Make_All_Strings_Equal
+
+go 1.19
