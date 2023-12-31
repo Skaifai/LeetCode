@@ -1,0 +1,3 @@
+module Largest_Substring_Between_Two_Equal_Characters
+
+go 1.19
