@@ -1,0 +1,3 @@
+module Convert_an_Array_Into_a_2D_Array_With_Conditions
+
+go 1.19
