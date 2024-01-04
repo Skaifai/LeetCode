@@ -1,0 +1,3 @@
+module Minimum_Number_of_Operations_to_Make_Array_Empty
+
+go 1.19
