@@ -25,7 +25,7 @@ func numberOfArithmeticSlices(nums []int) int {
 	//// We start checking for arithmetic subarrays
 	//// We begin by checking for the existence of subarrays of length 3, then 4, and so on
 	//currentLength := 3
-	
+
 	differences := make([]int, len(nums)-1)
 
 	for i := 0; i < len(nums)-1; i++ {
