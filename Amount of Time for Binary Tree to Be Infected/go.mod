@@ -1,0 +1,3 @@
+module Amount_of_Time_for_Binary_Tree_to_Be_Infected
+
+go 1.19
